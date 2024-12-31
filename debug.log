@@ -1,0 +1,600 @@
+POST DATA: Array
+(
+    [business_id] => 34
+)
+FILES: Array
+(
+)
+POST DATA: Array
+(
+    [business_id] => 34
+)
+FILES: Array
+(
+)
+POST DATA: Array
+(
+    [business_id] => 34
+)
+FILES: Array
+(
+)
+POST DATA: Array
+(
+    [business_id] => 34
+)
+FILES: Array
+(
+)
+POST DATA: Array
+(
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => shiri new70
+    [address] => hativa 989898996
+    [phone] => 05481628187
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20224
+    [address] => nahum sne
+    [phone] => 0548162999
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2067
+    [address] => nahum sne
+    [phone] => 05481629888
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => nahum sne
+    [phone] => 0545783397
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer202411111
+    [address] => nahum sne  28/188888
+    [phone] => 0545783397
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 9
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [hours] => [{"day":"Monday","open_time":"09:00","close_time":"18:00"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]
+)
+POST DATA: Array
+(
+    [hours] => [{"day":"Monday","open_time":"11:00","close_time":"18:00"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]
+)
+POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [hours] => [{"day":"Monday","open_time":"11:00","close_time":"20:01"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]
+)
+POST DATA: Array
+(
+    [hours] => [{"day":"Monday","open_time":"11:00","close_time":"20:01"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]
+)
+POST HOURS: [{"day":"Monday","open_time":"11:00","close_time":"20:01"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]POST DATA: Array
+(
+    [name] => omer2024
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST HOURS: POST DATA: Array
+(
+    [hours] => [{"day":"Monday","open_time":"11:00","close_time":"20:01"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]
+)
+POST HOURS: [{"day":"Monday","open_time":"11:00","close_time":"20:01"},{"day":"Tuesday","open_time":"09:00","close_time":"18:00"},{"day":"Wednesday","open_time":"09:00","close_time":"18:00"},{"day":"Thursday","open_time":"09:00","close_time":"18:00"},{"day":"Friday","open_time":"09:00","close_time":"18:00"},{"day":"Saturday","open_time":"09:00","close_time":"18:00"},{"day":"Sunday","open_time":"09:00","close_time":"18:00"}]POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20241
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer20
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [action] => add_business
+    [name] => 1
+    [address] => 1
+    [phone] => 1
+    [hours] => 1
+)
+POST DATA: Array
+(
+    [name] => omer20
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer209
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [action] => add_business
+    [name] => 1
+    [address] => 1
+    [phone] => 1
+    [hours] => 1
+)
+POST DATA: Array
+(
+    [name] => מתן
+    [address] => 1
+    [phone] => 1
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => מתן
+    [address] => 1
+    [phone] => 1
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => omer209
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer207
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => אופיר
+    [address] => משה
+    [phone] => 1
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר
+    [address] => משה
+    [phone] => נויה
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר1
+    [address] => משה
+    [phone] => 1
+    [business_id] => 39
+)
+POST DATA: Array
+(
+    [name] => אופיר
+    [address] => משה
+    [phone] => נויה
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר
+    [address] => משה
+    [phone] => נויה
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר2
+    [address] => משה
+    [phone] => נויה
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר3
+    [address] => 1
+    [phone] => 12
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר5
+    [address] => 1
+    [phone] => 12
+    [business_id] => 45
+)
+POST DATA: Array
+(
+    [name] => omer209
+    [address] => israel galili 946
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => אופיר3
+    [address] => 1
+    [phone] => 125
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => אופיר3
+    [address] => 1
+    [phone] => 125
+    [hours] => Mon-Fri 09:00-17:00
+)
+POST DATA: Array
+(
+    [name] => omer209
+    [address] => israel galili 94
+    [phone] => 0548162818
+    [business_id] => 34
+)
+POST DATA: Array
+(
+    [name] => omer2095
+    [address] => israel galili 946
+    [phone] => 0548162818
+    [business_id] => 47
+)
